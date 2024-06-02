@@ -21,9 +21,11 @@ bspc config gapless_monocle      true
 bspc rule -a steam desktop='^10'
 bspc rule -a discord desktop='^9'
 bspc rule -a Spotify desktop='^9'
+bspc rule -a ticktick desktop='^1'
 
+setxkbmap -option grp:alt_shift_toggle ru,us &
 sxhkd &
 dunst &
 $HOME/.config/polybar/launch.sh &
 xset s off -dpms &
-bash /home/Solalek/bin/todo &
+ticktick &

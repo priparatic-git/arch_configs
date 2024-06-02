@@ -126,7 +126,7 @@ super + {Left,Down,Up,Right}
 	bspc node -v {-20 0,0 20,0 -20,20 0}
 
 # open apps
-super + shift + {f,s,d,g,q,i,n,t}
+super + shift + {f,s,d,g,q,i,n,t,w}
 	{firefox, \
 	 spotify-launcher, \
 	 discord, \
@@ -134,4 +134,5 @@ super + shift + {f,s,d,g,q,i,n,t}
 	 qutebrowser, \
 	 torbrowser-launcher, \
 	 thunar, \
-	 qbittorrent}
+	 qbittorrent, \
+	 ticktick}
