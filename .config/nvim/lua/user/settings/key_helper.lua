@@ -1,0 +1,5 @@
+vim.api.nvim_set_keymap('x', 'ga', '<Plug>(EasyAlign)', {noremap = false})
+vim.api.nvim_set_keymap('n', 'ga', '<Plug>(EasyAlign)', {noremap = false})
+vim.api.nvim_set_keymap('n', ',h', '<cmd>bp<CR>',{})
+vim.api.nvim_set_keymap('n', ',l', '<cmd>bn<CR>',{})
+vim.api.nvim_set_keymap('n', ',c', '<cmd>bd<CR>',{})

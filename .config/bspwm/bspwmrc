@@ -28,4 +28,5 @@ sxhkd &
 dunst &
 $HOME/.config/polybar/launch.sh &
 xset s off -dpms &
-ticktick &
+obsidian &
+/home/Solalek/bin/breaker
