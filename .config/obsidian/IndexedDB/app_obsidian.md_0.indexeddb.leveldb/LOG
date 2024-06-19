@@ -1,0 +1,12 @@
+2024/06/19-13:18:27.441 33b Reusing MANIFEST /home/Solalek/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/19-13:18:27.442 33b Recovering log #49
+2024/06/19-13:18:27.481 33b Reusing old log /home/Solalek/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/000049.log 
+2024/06/19-14:07:23.521 33b Level-0 table #54: started
+2024/06/19-14:07:23.542 33b Level-0 table #54: 1078830 bytes OK
+2024/06/19-14:07:23.543 33b Delete type=0 #49
+2024/06/19-14:08:27.521 33b Compacting 1@1 + 1@2 files
+2024/06/19-14:08:27.532 33b Generated table #55@1: 2402 keys, 382174 bytes
+2024/06/19-14:08:27.532 33b Compacted 1@1 + 1@2 files => 382174 bytes
+2024/06/19-14:08:27.535 33b compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/06/19-14:08:27.535 33b Delete type=2 #51
+2024/06/19-14:08:27.535 33b Delete type=2 #54
